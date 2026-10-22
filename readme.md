@@ -82,7 +82,7 @@ O programa utiliza os arquivos de entrada e de pontuação presentes no diretór
 
 O arquivo `english_quadgrams.txt` contém estatísticas de quadgramas da língua inglesa utilizadas para avaliar a qualidade das tentativas de decifragem. Essas estatísticas são empregadas pelo algoritmo de busca para comparar possíveis textos decifrados e favorecer aqueles que apresentam padrões mais compatíveis com o inglês.
 
-**Fonte:** [Practical Cryptography — Quadgrams](http://practicalcryptography.com/cryptanalysis/text-characterisation/quadgrams//quadgrams/)
+**Fonte:** [Practical Cryptography — Quadgrams](http://practicalcryptography.com/cryptanalysis/text-characterisation/quadgrams/quadgrams/)
 
 O material foi utilizado como referência para implementar a avaliação estatística dos textos durante o processo de criptoanálise.
 
