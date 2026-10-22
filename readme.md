@@ -77,11 +77,6 @@ python3 main.py
 
 O programa utiliza os arquivos de entrada e de pontuação presentes no diretório do projeto. Portanto, execute o comando a partir da raiz do repositório.
 
-## Aprendizados
-
-O desenvolvimento deste projeto permitiu explorar diferentes técnicas de criptografia clássica, compreender as limitações de uma abordagem baseada exclusivamente em deslocamentos alfabéticos e aplicar métodos de busca heurística e análise estatística para auxiliar na recuperação de textos.
-
-A experiência também evidenciou a importância de testar hipóteses, comparar estratégias e avaliar os resultados obtidos durante o processo de resolução.
 
 ### Fonte dos dados de quadgramas
 
