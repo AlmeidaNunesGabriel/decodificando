@@ -58,8 +58,8 @@ A solução foi desenvolvida combinando a busca por uma chave de substituição 
 Com o Python 3 instalado, clone o repositório e acesse o diretório do projeto:
 
 ```bash
-git clone URL_DO_REPOSITORIO
-cd NOME_DO_REPOSITORIO
+git clone https://github.com/AlmeidaNunesGabriel/decodificando
+cd decodificando
 ```
 
 Recomenda-se utilizar um ambiente virtual:
