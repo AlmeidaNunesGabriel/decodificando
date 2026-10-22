@@ -1,0 +1,28 @@
+
+# Bytecode do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+
+# Ferramentas de desenvolvimento e testes
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Arquivos gerados durante a distribuição
+build/
+dist/
+*.egg-info/
+
+# Arquivos temporários do sistema
+.DS_Store
